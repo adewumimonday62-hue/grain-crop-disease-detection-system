@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+
+# Machine Learning
+.model/
+*.h5
+*.hdf5
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.pydevproject
+*~
+# Jupyter Notebook
+.ipynb_checkpoints/
